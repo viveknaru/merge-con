@@ -1,6 +1,6 @@
 pseudo code
 {
-Initial Function()
+Initial security()
 {
   //Sample Code
 }
